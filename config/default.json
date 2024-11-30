@@ -1,0 +1,11 @@
+{
+    "dbChain": "mongodb+srv://andrea2947327:gyeEmPaYYLqdlw6H@cluster0.aqpqu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "secret": {
+      "key": "f688ae26e9cfa3ba6235477831d5122e"
+    },
+    "server": {
+      "port": 3000
+    },
+    "locales": ["es", "en"]
+  }
+  

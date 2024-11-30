@@ -1,0 +1,11 @@
+{
+    "dbChain": "mongodb://prod-db-url:27017/proyecto_reto",
+    "secret": {
+      "key": "f688ae26e9cfa3ba6235477831d5122e"
+    },
+    "server": {
+      "port": 8080
+    },
+    "locales": ["es", "en"]
+  }
+  
